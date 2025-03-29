@@ -1,17 +1,27 @@
-- 👋 Hi, I’m @profadityasaxena
-""- 👀 I’m interested in :""
-- artificial intelligence and machine learning
-- statistics and data science
-- cloud computing, quantum computing, optical computing and all sorts of computing
-- web and mobile technologies
-- robots, iot, factories, big machines satellites
-- finance, money, blockchain
+# 👋 Hi, I’m @profadityasaxena
 
-- 🌱 I’m currently learning about all things I am interested in
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👀 I’m interested in:
+- Artificial Intelligence and Machine Learning  
+- Statistics and Data Science  
+- Cloud Computing, Quantum Computing, Optical Computing — and all sorts of computing  
+- Web and Mobile Technologies  
+- Robots, IoT, Factories, Big Machines, Satellites  
+- Finance, Money, Blockchain  
+
+## 🌱 I’m currently learning:
+- Everything I’m interested in (yes, all of it!)
+
+## 💞️ I’m looking to collaborate on:
+- Startups and world-changing ideas
+
+## 📫 How to reach me:
+- Coming soon...
+
+## 😄 Pronouns:
+- He / Him / His
+
+## ⚡ Fun fact:
+- Work is fun for me
 
 <!---
 profadityasaxena/profadityasaxena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
