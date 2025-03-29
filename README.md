@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @profadityasaxena
+# 👋 Hi, I’m Aditya Saxena (@profadityasaxena)
 
 ## 👀 I’m interested in:
 - Artificial Intelligence and Machine Learning  
