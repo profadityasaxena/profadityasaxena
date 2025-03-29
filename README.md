@@ -3,7 +3,8 @@
 ## 👀 I’m interested in:
 - Artificial Intelligence and Machine Learning  
 - Statistics and Data Science  
-- Cloud Computing, Quantum Computing, Optical Computing — and all sorts of computing  
+- Cloud Computing, Quantum Computing, Optical Computing — and all sorts of computing
+- Software Engineering and DevOps
 - Web and Mobile Technologies  
 - Robots, IoT, Factories, Big Machines, Satellites  
 - Finance, Money, Blockchain  
