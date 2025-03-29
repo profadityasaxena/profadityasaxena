@@ -8,7 +8,8 @@
 - Cybersecurity
 - Web and Mobile Technologies  
 - Robots, IoT, Factories, Big Machines, Satellites  
-- Finance, Money, Blockchain  
+- Finance, Money, Blockchain
+- Sustainability - Economic, Social, Environmental and Governance
 
 ## 🌱 I’m currently learning:
 - Everything I’m interested in (yes, all of it!)
