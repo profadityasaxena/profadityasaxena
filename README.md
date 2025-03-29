@@ -5,6 +5,7 @@
 - Statistics and Data Science  
 - Cloud Computing, Quantum Computing, Optical Computing — and all sorts of computing
 - Software Engineering and DevOps
+- Cybersecurity
 - Web and Mobile Technologies  
 - Robots, IoT, Factories, Big Machines, Satellites  
 - Finance, Money, Blockchain  
