@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Aditya Saxena (@profadityasaxena)
 
+## Personal Website
+www.adityasaxena.xyz
+
 ## 👀 I’m interested in:
 - Artificial Intelligence and Machine Learning  
 - Statistics and Data Science  
