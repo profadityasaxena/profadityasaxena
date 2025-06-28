@@ -3,7 +3,7 @@
 ## 🌐 Personal Portfolio  
 Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 
-## 📂 Here are some interesting projects by domain:
+## 📂 Here are some interesting projects by teaching domain:
 
 - **Artificial Intelligence and Machine Learning**  
   🔤 *Text Classification using Apache Spark MLlib (also listed under Big Data)*  
