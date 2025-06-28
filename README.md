@@ -28,11 +28,11 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
   *Coming soon: Secure refactoring, cloud compliance, and AI attack surfaces.*
 
 - **Web and Mobile Technologies**  
+  🌐 *Personal Portfolio Website*  
+  [Explore the Website](https://www.adityasaxena.xyz)
   📘 *Tailwind CSS: A Comprehensive Technical Overview*  
   *by Aditya Saxena*  
   [Read the Paper (PDF)](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)  
-  🌐 *Personal Portfolio Website*  
-  [Explore the Website](https://www.adityasaxena.xyz)
 
 - **Robots, IoT, Factories, Big Machines, Satellites**  
   *Coming soon: Real-time analytics pipelines and autonomous control in industry 4.0.*
