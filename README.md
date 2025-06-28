@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Aditya Saxena (@profadityasaxena)
 
-## 🌐 Personal Website
-[www.adityasaxena.xyz](http://www.adityasaxena.xyz)
+## 🌐 Personal Portfolio  
+Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 
 ## 📂 Here are some interesting projects by domain:
 
@@ -30,7 +30,9 @@
 - **Web and Mobile Technologies**  
   📘 *Tailwind CSS: A Comprehensive Technical Overview*  
   *by Aditya Saxena*  
-  [Read the Paper (PDF)](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)
+  [Read the Paper (PDF)](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)  
+  🌐 *Personal Portfolio Website*  
+  [Explore the Website](https://www.adityasaxena.xyz)
 
 - **Robots, IoT, Factories, Big Machines, Satellites**  
   *Coming soon: Real-time analytics pipelines and autonomous control in industry 4.0.*
