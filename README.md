@@ -6,7 +6,10 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 ## 📂 Here are some interesting projects by domain:
 
 - **Artificial Intelligence and Machine Learning**  
+  🔤 *Text Classification using Apache Spark MLlib (also listed under Big Data)*  
+  [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)  
   *Coming soon: Papers on LLM safety, generative workflows, and human-in-the-loop learning.*
+
 
 - **Statistics and Data Science**  
   *Coming soon: Applied Bayesian models, experimental design in AI research.*
