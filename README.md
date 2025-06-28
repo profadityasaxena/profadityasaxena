@@ -16,6 +16,7 @@
 
 - **Cloud Computing**  
   📘 *Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices*  
+  *by Aditya Saxena*  
   [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
 
 - **Software Engineering and DevOps**  
@@ -26,6 +27,7 @@
 
 - **Web and Mobile Technologies**  
   📘 *Tailwind CSS: A Comprehensive Technical Overview*  
+  *by Aditya Saxena*  
   [Read the Paper (PDF)](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)
 
 - **Robots, IoT, Factories, Big Machines, Satellites**  
