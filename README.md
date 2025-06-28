@@ -5,6 +5,13 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 
 ## 📂 Here are some interesting projects by teaching domain:
 
+- **Cloud Computing**  
+  📘 *Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices*  
+  *by Aditya Saxena*  
+  [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
+  🐳 *Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)*  
+  [View Repository](https://github.com/profadityasaxena/Containerization_Platforms)
+
 - **Artificial Intelligence and Machine Learning**  
   🔤 *Text Classification using Apache Spark MLlib (also listed under Big Data)*  
   [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)  
@@ -27,13 +34,6 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
   [View Repository](https://github.com/profadityasaxena/Snowflake)  
   🔤 *Text Classification using Apache Spark MLlib*  
   [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
-
-- **Cloud Computing**  
-  📘 *Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices*  
-  *by Aditya Saxena*  
-  [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
-  🐳 *Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)*  
-  [View Repository](https://github.com/profadityasaxena/Containerization_Platforms)
   
 
 - **Software Engineering and DevOps**  
