@@ -15,7 +15,7 @@
   *Coming soon: Scalable data architecture in real-time industrial systems.*
 
 - **Cloud Computing**  
-  📘 *Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices - By Aditya Saxena*  
+  📘 *Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices*  
   [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
 
 - **Software Engineering and DevOps**  
@@ -25,7 +25,8 @@
   *Coming soon: Secure refactoring, cloud compliance, and AI attack surfaces.*
 
 - **Web and Mobile Technologies**  
-  *Coming soon: Frontend modernization with LLMs and conversational UI agents.*
+  📘 *Tailwind CSS: A Comprehensive Technical Overview*  
+  [Read the Paper (PDF)](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)
 
 - **Robots, IoT, Factories, Big Machines, Satellites**  
   *Coming soon: Real-time analytics pipelines and autonomous control in industry 4.0.*
