@@ -12,12 +12,17 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
   *Coming soon: Applied Bayesian models, experimental design in AI research.*
 
 - **Big Data**  
-  *Coming soon: Scalable data architecture in real-time industrial systems.*
+  📦 *Snowflake Data Warehouse & Analytics Projects*  
+  [View Repository](https://github.com/profadityasaxena/Snowflake)  
+  🔤 *Text Classification using Apache Spark MLlib*  
+  [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
 
 - **Cloud Computing**  
   📘 *Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices*  
   *by Aditya Saxena*  
-  [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
+  [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)  
+  🐳 *Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)*  
+  [View Repository](https://github.com/profadityasaxena/Containerization_Platforms)
 
 - **Software Engineering and DevOps**  
   📘 *DevOps: Past, Present, Future*  
@@ -42,7 +47,8 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
   *Coming soon: Real-time analytics pipelines and autonomous control in industry 4.0.*
 
 - **Finance, Money, Blockchain**  
-  *Coming soon: LLMs in FinTech, compliance-aware systems, and cryptoeconomic design.*
+  🏦 *FinTech Regulatory Frameworks and Compliance Analysis*  
+  [View Repository](https://github.com/profadityasaxena/Fintech_RegulatoryFramework)
 
 - **Sustainability – Economic, Social, Environmental, and Governance**  
   *Coming soon: AI for sustainability, responsible modernization, and carbon-aware cloud.*
