@@ -7,7 +7,8 @@
 - Artificial Intelligence and Machine Learning  
 - Statistics and Data Science  
 - Big Data  
-- Cloud Computing --> **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices**  📘 [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
+- Cloud Computing -->
+  **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices**  📘 [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
 - Software Engineering and DevOps  
 - Cybersecurity  
 - Web and Mobile Technologies  
