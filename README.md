@@ -41,7 +41,7 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
   - 📘 *Tailwind CSS: A Comprehensive Technical Overview*  *by Aditya Saxena*  [Read the Paper (PDF)](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)
 
 - **Robots, IoT, Factories, Big Machines, Satellites**  
-  - ICONICS Industry Implementation [View] (https://github.com/profadityasaxena/ICONICS_Industry)
+  - ICONICS Industry Implementation [View](https://github.com/profadityasaxena/ICONICS_Industry)
 
 - **Finance, Money, Blockchain**  
   -🏦 *FinTech Regulatory Frameworks and Compliance Analysis*  [View Repository](https://github.com/profadityasaxena/Fintech_RegulatoryFramework)
