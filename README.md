@@ -3,7 +3,7 @@
 ## 🌐 Personal Website
 [www.adityasaxena.xyz](http://www.adityasaxena.xyz)
 
-## 👀 I’m interested in:
+## 📂 Here are some interesting projects by domain:
 
 - **Artificial Intelligence and Machine Learning**  
   *Coming soon: Papers on LLM safety, generative workflows, and human-in-the-loop learning.*
@@ -20,7 +20,9 @@
   [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
 
 - **Software Engineering and DevOps**  
-  *Coming soon: Observability, CI/CD pipelines, and developer experience in modernization.*
+  📘 *DevOps: Past, Present, Future*  
+  *by Aditya Saxena*  
+  [Read the Paper (PDF)](https://github.com/profadityasaxena/DevOps---Past-Present-Future/blob/main/DevOps%20-%20Past%2C%20Present%2C%20Future.pdf)
 
 - **Cybersecurity**  
   *Coming soon: Secure refactoring, cloud compliance, and AI attack surfaces.*
@@ -40,7 +42,7 @@
   *Coming soon: AI for sustainability, responsible modernization, and carbon-aware cloud.*
 
 ## 🌱 I’m currently learning:
-- Everything I’m interested in (yes, all of it!)
+- Everything I’m working on (yes, all of it!)
 
 ## 💞️ I’m looking to collaborate on:
 - Startups and world-changing ideas
