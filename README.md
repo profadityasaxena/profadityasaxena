@@ -1,18 +1,19 @@
 # 👋 Hi, I’m Aditya Saxena (@profadityasaxena)
 
-## Personal Website
-www.adityasaxena.xyz
+## 🌐 Personal Website
+[www.adityasaxena.xyz](http://www.adityasaxena.xyz)
 
 ## 👀 I’m interested in:
 - Artificial Intelligence and Machine Learning  
 - Statistics and Data Science  
-- BigData, Cloud Computing, Quantum Computing, Optical Computing — and all sorts of computing
-- Software Engineering and DevOps
-- Cybersecurity
+- Big Data  
+- Cloud Computing --> **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices**  📘 [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
+- Software Engineering and DevOps  
+- Cybersecurity  
 - Web and Mobile Technologies  
 - Robots, IoT, Factories, Big Machines, Satellites  
-- Finance, Money, Blockchain
-- Sustainability - Economic, Social, Environmental and Governance
+- Finance, Money, Blockchain  
+- Sustainability – Economic, Social, Environmental, and Governance  
 
 ## 🌱 I’m currently learning:
 - Everything I’m interested in (yes, all of it!)
