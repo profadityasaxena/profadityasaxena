@@ -15,7 +15,7 @@
   *Coming soon: Scalable data architecture in real-time industrial systems.*
 
 - **Cloud Computing**  
-  📘 *Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices*  
+  📘 *Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices - By Aditya Saxena*  
   [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
 
 - **Software Engineering and DevOps**  
