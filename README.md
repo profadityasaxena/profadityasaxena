@@ -13,7 +13,11 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
   *Coming soon*  
   *Coming soon: Papers on LLM safety, generative workflows, and human-in-the-loop learning.*
 
-
+- **LLMs and Generative AI**  
+  🤖 *Cute – Generative AI Full Stack Mini Project (OpenAI, MCP, AWS, AstraDB, ReAct, Next.js)*  
+  [View Project Announcement](https://www.linkedin.com/feed/update/urn:li:activity:7332995403006566400/)  
+  A personal AI assistant that responds intelligently to resume questions, recruiter prompts, and more.  
+  Technologies used: OpenAI, Model Context Protocol (MCP), ReAct framework, AWS, AstraDB, GSAP, and Next.js.
 
 - **Statistics and Data Science**  
   *Coming soon: Applied Bayesian models, experimental design in AI research.*
