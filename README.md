@@ -8,7 +8,11 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 - **Artificial Intelligence and Machine Learning**  
   🔤 *Text Classification using Apache Spark MLlib (also listed under Big Data)*  
   [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)  
+  🛡️ *AD-ASTRA – LLM-driven Cloud Security Auditing and Policy Compliance (cross-listed under Cybersecurity)*  
+  [Visit Organization](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)  
+  *Coming soon*  
   *Coming soon: Papers on LLM safety, generative workflows, and human-in-the-loop learning.*
+
 
 
 - **Statistics and Data Science**  
@@ -23,9 +27,10 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 - **Cloud Computing**  
   📘 *Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices*  
   *by Aditya Saxena*  
-  [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)  
+  [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
   🐳 *Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)*  
   [View Repository](https://github.com/profadityasaxena/Containerization_Platforms)
+  
 
 - **Software Engineering and DevOps**  
   📘 *DevOps: Past, Present, Future*  
@@ -33,7 +38,11 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
   [Read the Paper (PDF)](https://github.com/profadityasaxena/DevOps---Past-Present-Future/blob/main/DevOps%20-%20Past%2C%20Present%2C%20Future.pdf)
 
 - **Cybersecurity**  
+  🛡️ *AD-ASTRA – Cloud Security Compliance Tool using Azure Policies and Ollama LLMs*  
+  [Visit Organization](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)  
+  *Coming soon (cross-listed under AI and LLMs)*  
   *Coming soon: Secure refactoring, cloud compliance, and AI attack surfaces.*
+
 
 - **Web and Mobile Technologies**  
   🌐 *Personal Portfolio Website*  
