@@ -50,7 +50,9 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 
 ### Web and Mobile Technologies  
 - *Personal Portfolio Website*  
-  [Explore the Website](https://www.adityasaxena.xyz)  
+  [Explore the Website](https://www.adityasaxena.xyz)
+- *A Corporate Website*
+  [Explore the Website](https://www.dalisoft.in/)
 - *Geo Notes App – A browser-based note-taking app using Geolocation API and Voice Recognition API*  
   [Try the App](https://geo-notes-browser-api-tutorial.vercel.app/)  
 - *Conway's Game of Life – MERN Stack Implementation with interactive visualization*  
