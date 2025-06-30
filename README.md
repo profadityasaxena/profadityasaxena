@@ -66,6 +66,8 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
   *by Aditya Saxena*  
   - [Read the Paper (PDF)](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)
 
+### Project Management - Cloud and ERP Systems
+- 
 ### Robots, IoT, Factories, Big Machines, Satellites  
 - ICONICS Industry Implementation  
   [View Repository](https://github.com/profadityasaxena/ICONICS_Industry)
