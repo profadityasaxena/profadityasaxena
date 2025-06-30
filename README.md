@@ -1,5 +1,10 @@
 # Hi, I’m Aditya Saxena (@profadityasaxena)
 
+Welcome to my Tutorials GitHub profile. Most of the repositories here are hands-on tutorials developed for my students or final year projects that I am currently supervising.
+
+Please note that these projects are primarily at the intermediate level and focused on instructional clarity. They are not fully reflective of my work in advanced domains such as cloud architecture, data engineering, or applied machine learning in industry settings.
+
+
 ## Personal Portfolio  
 Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 
