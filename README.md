@@ -67,6 +67,7 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
   - [Read the Paper (PDF)](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)
 
 ### Project Management - Cloud and ERP Systems
+[Read the Paper (PDF)](https://github.com/profadityasaxena/ProjectManagement_Cloud_and_ERP/blob/main/Project_Mangement%20-%20Cloud_and_ERP.pdf)
 - 
 ### Robots, IoT, Factories, Big Machines, Satellites  
 - ICONICS Industry Implementation  
