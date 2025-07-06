@@ -19,7 +19,8 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 - *Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)*  
   [View Repository](https://github.com/profadityasaxena/Containerization_Platforms)
 
-### Artificial Intelligence and Machine Learning  
+### Artificial Intelligence and Machine Learning 
+- *Natural Language Processing and GenerativeAI* [View Repository](https://github.com/profadityasaxena/GenAI_IntroToGenAI)
 - *Text Classification using Apache Spark MLlib (also listed under Big Data)*  
   [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
 - *AD-ASTRA – LLM-driven Cloud Security Auditing and Policy Compliance (cross-listed under Cybersecurity)*  
