@@ -13,35 +13,35 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 ### Cloud Computing  
 - **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices**  
   *by Aditya Saxena*  
-  [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
+  - [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
 - **A Framework for Digital Transformation Teams to Design Microservices Architecture from a Monolith**  
-  [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Microservices/blob/main/Microservices.pdf)
+  - [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Microservices/blob/main/Microservices.pdf)
 - *Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)*  
-  [View Repository](https://github.com/profadityasaxena/Containerization_Platforms)
+  - [View Repository](https://github.com/profadityasaxena/Containerization_Platforms)
 
 ### Artificial Intelligence and Machine Learning 
-- *Natural Language Processing and GenerativeAI* [View Repository](https://github.com/profadityasaxena/GenAI_IntroToGenAI)
+- *Natural Language Processing and GenerativeAI*
+  - [View Repository](https://github.com/profadityasaxena/GenAI_IntroToGenAI)
 - *Text Classification using Apache Spark MLlib (also listed under Big Data)*  
-  [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
+  - [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
 - *AD-ASTRA – LLM-driven Cloud Security Auditing and Policy Compliance (cross-listed under Cybersecurity)*  
-  [Visit Organization](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)  
-  *Coming soon*  
-  *Coming soon: Papers on LLM safety, generative workflows, and human-in-the-loop learning.*
+  - [Visit Organization](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)  
+
 
 ### LLMs and Generative AI  
 - *Generative AI Full Stack Mini Project (OpenAI, MCP, AWS, AstraDB, ReAct, Next.js)*  
   A personal AI assistant that responds intelligently to resume questions, recruiter prompts, and more.  
   Technologies used: OpenAI, Model Context Protocol (MCP), ReAct framework, AWS, AstraDB, GSAP, and Next.js.  
-  [View Project Announcement](https://www.linkedin.com/feed/update/urn:li:activity:7332995403006566400/)
+  - [View Project Announcement](https://www.linkedin.com/feed/update/urn:li:activity:7332995403006566400/)
 
 ### Statistics and Data Science  
 - *Coming soon: Applied Bayesian models, experimental design in AI research.*
 
 ### Big Data  
 - *Snowflake Data Warehouse & Analytics Projects*  
-  [View Repository](https://github.com/profadityasaxena/Snowflake)
+  - [View Repository](https://github.com/profadityasaxena/Snowflake)
 - *Text Classification using Apache Spark MLlib*  
-  [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
+  - [View Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
 
 ### Software Engineering and DevOps  
 - *DevOps: Past, Present, Future*  
@@ -50,9 +50,7 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 
 ### Cybersecurity  
 - *AD-ASTRA – Cloud Security Compliance Tool using Azure Policies and Ollama LLMs*  
-  [Visit Organization](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)  
-  *Coming soon (cross-listed under AI and LLMs)*  
-  *Coming soon: Secure refactoring, cloud compliance, and AI attack surfaces.*
+  - [Visit Organization](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)  
 
 ### Web and Mobile Technologies  
 - *Personal Portfolio Website*  
