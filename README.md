@@ -32,8 +32,8 @@ Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
 - *Building Generative AI Agents with Deep Reinforcement Learning*
   - [Read the Paper (PDF)](https://github.com/profadityasaxena/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning/blob/main/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning.pdf)
 - *Generative AI Full Stack Mini Project (OpenAI, MCP, AWS, AstraDB, ReAct, Next.js)*  
-  A personal AI assistant that responds intelligently to resume questions, recruiter prompts, and more.  
-  Technologies used: OpenAI, Model Context Protocol (MCP), ReAct framework, AWS, AstraDB, GSAP, and Next.js.  
+  - A personal AI assistant that responds intelligently to resume questions, recruiter prompts, and more.  
+  - *Technologies Used*: OpenAI, Model Context Protocol (MCP), ReAct framework, AWS, AstraDB, GSAP, and Next.js.  
   - [View Project Announcement](https://www.linkedin.com/feed/update/urn:li:activity:7332995403006566400/)
 
 ### Statistics and Data Science  
