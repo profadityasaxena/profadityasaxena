@@ -6,8 +6,9 @@ Please note that these projects are primarily at the intermediate level and focu
 
 
 ## Personal Portfolio  
-Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
-INSIGHT-XAI: [https://github.com/profadityasaxena/Labels-to-Latents]
+- Visit: [https://www.adityasaxena.xyz](https://www.adityasaxena.xyz)
+- INSIGHT-XAI: [https://github.com/profadityasaxena/Labels-to-Latents]
+- INSIGHT-XAI Notebook: [https://github.com/profadityasaxena/Labels-to-Latents/blob/main/implementation.ipynb]
 
 ## Here are some interesting projects by teaching domain:
 
