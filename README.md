@@ -8,7 +8,9 @@ Please note that these projects are primarily at the intermediate level and focu
 ## Personal Portfolio  
 - [Visit Website](https://www.adityasaxena.xyz)
 - [INSIGHT-XAI Notebook](https://github.com/profadityasaxena/Labels-to-Latents/blob/main/implementation.ipynb)
-- [MERN-Sample-App](https://mern-full-stack-template-ib68247bi-profadityasaxenas-projects.vercel.app/)
+
+## Extendable Projects
+- [MERN-Sample-App](https://mern-full-stack-template-ib68247bi-profadityasaxenas-projects.vercel.app/) This project is a full-stack template that can be extended to build full-stack applications such as social networking platforms, job boards, and analytics dashboards. The hallmark of this project is its focus on security and authentication.
 
 ## Here are some interesting projects by teaching domain:
 
