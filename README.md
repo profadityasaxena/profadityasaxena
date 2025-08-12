@@ -13,16 +13,13 @@ Please note that these projects are primarily at the intermediate level and focu
 - [MERN-Sample-App](https://mern-full-stack-template.vercel.app/) - This project is a full-stack template that can be extended to build full-stack applications such as social networking platforms, job boards, and analytics dashboards. The hallmark of this project is its focus on security and authentication.
 - [MERN-shadcn-version](https://mern-optimus.vercel.app/) - Here is a version of the same application built with shadcn for user interface. Shadcn is an open-source UI library offering beautifully designed, accessible React components that developers can fully own, customize, and integrate with frameworks like Next.js and Tailwind CSS
 
-## Here are some interesting projects by teaching domain:
+## Here are some interesting lectures by teaching domain.
 
 ### Cloud Computing  
-- **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices**  
-  *by Aditya Saxena*  
-  - [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
-- **A Framework for Digital Transformation Teams to Design Microservices Architecture from a Monolith**  
-  - [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Microservices/blob/main/Microservices.pdf)
-- *Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)*  
-  - [View Repository](https://github.com/profadityasaxena/Containerization_Platforms)
+- **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices** *by Aditya Saxena* - [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
+- **A Framework for Digital Transformation Teams to Design Microservices Architecture from a Monolith** *by Aditya Saxena* - [Read the Paper (PDF)](https://github.com/profadityasaxena/Cloud-Microservices/blob/main/Microservices.pdf)
+- **Docker and Kubernetes** *by Aditya Saxena* - [Read the Paper(PDF)](https://github.com/profadityasaxena/docker_and_kubernetes/blob/main/Docker_and_Kubernetes.pdf)
+- **Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)**  *by Aditya Saxena* - [View Repository](https://github.com/profadityasaxena/Containerization_Platforms)
 
 ### Artificial Intelligence and Machine Learning 
 - *Natural Language Processing and GenerativeAI*
