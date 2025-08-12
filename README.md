@@ -9,17 +9,17 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 
 ## Quick Links
 
-- **Personal Portfolio:** <https://www.adityasaxena.xyz>  
-- **INSIGHT-XAI Notebook (Jupyter):** <https://github.com/profadityasaxena/Labels-to-Latents/blob/main/implementation.ipynb>
+- **Personal Portfolio:** [Document](https://www.adityasaxena.xyz)
+- **INSIGHT-XAI Notebook (Jupyter):** [Document](https://github.com/profadityasaxena/Labels-to-Latents/blob/main/implementation.ipynb)
 
 ---
 
 ## Extendable Projects
 
-- **MERN Sample App (Security-Focused Template)** — Live demo: <https://mern-full-stack-template.vercel.app/>  
+- **MERN Sample App (Security-Focused Template)** — Live demo: [Document](https://mern-full-stack-template.vercel.app/)  
   A full-stack starter that can be extended into social networks, job boards, and analytics dashboards, with particular emphasis on authentication and security.
 
-- **MERN (shadcn/ui) Variant** — Live demo: <https://mern-optimus.vercel.app/>  
+- **MERN (shadcn/ui) Variant** — Live demo: [Document](https://mern-optimus.vercel.app/)  
   A variant built with shadcn/ui components for accessible, customizable UI in Next.js + Tailwind CSS workflows.
 
 ---
@@ -29,37 +29,37 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 ### Cloud Computing
 
 - **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices** — *Aditya Saxena*.  
-  PDF: <https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf>
+  [PDF](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
 
 - **A Framework for Digital Transformation Teams to Design Microservices Architecture from a Monolith** — *Aditya Saxena*.  
-  PDF: <https://github.com/profadityasaxena/Cloud-Microservices/blob/main/Microservices.pdf>
+  [PDF](https://github.com/profadityasaxena/Cloud-Microservices/blob/main/Microservices.pdf)
 
 - **Docker and Kubernetes** — *Aditya Saxena*.  
-  PDF: <https://github.com/profadityasaxena/docker_and_kubernetes/blob/main/Docker_and_Kubernetes.pdf>
+  [PDF](https://github.com/profadityasaxena/docker_and_kubernetes/blob/main/Docker_and_Kubernetes.pdf)
 
 - **Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)**  
-  Repository: <https://github.com/profadityasaxena/Containerization_Platforms>
+  [Link to Repository](https://github.com/profadityasaxena/Containerization_Platforms)
 
 ### Artificial Intelligence and Machine Learning
 
 - **Natural Language Processing and Generative AI (Intro)**  
-  Repository: <https://github.com/profadityasaxena/GenAI_IntroToGenAI>
+  [Link to Repository](https://github.com/profadityasaxena/GenAI_IntroToGenAI)
 
 - **Text Classification using Apache Spark MLlib** *(also listed under Big Data)*  
-  Repository: <https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib>
+  [Link to Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
 
 - **AD-ASTRA — LLM-Driven Cloud Security Auditing and Policy Compliance** *(cross-listed under Cybersecurity)*  
-  Organization view: <https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1>
+  [Document](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)
 
 ### LLMs and Generative AI
 
 - **Building Generative AI Agents with Deep Reinforcement Learning**  
-  PDF: <https://github.com/profadityasaxena/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning/blob/main/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning.pdf>
+  [PDF](https://github.com/profadityasaxena/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning/blob/main/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning.pdf)
 
 - **Generative AI Full-Stack Mini Project (OpenAI, MCP, AWS, AstraDB, ReAct, Next.js)**  
   A personal AI assistant that answers résumé and recruiter queries.  
   Technologies: OpenAI, Model Context Protocol (MCP), ReAct, AWS, AstraDB, Next.js, GSAP.  
-  Announcement: <https://www.linkedin.com/feed/update/urn:li:activity:7332995403006566400/>
+  [Document](https://www.linkedin.com/feed/update/urn:li:activity:7332995403006566400/)
 
 ### Statistics and Data Science
 
@@ -68,52 +68,52 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 ### Big Data
 
 - **Snowflake Data Warehouse & Analytics Projects**  
-  Repository: <https://github.com/profadityasaxena/Snowflake>
+  [Link to Repository](https://github.com/profadityasaxena/Snowflake)
 
 - **Text Classification using Apache Spark MLlib**  
-  Repository: <https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib>
+  [Link to Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
 
 ### Software Engineering and DevOps
 
 - **DevOps: Past, Present, Future** — *Aditya Saxena*.  
-  PDF: <https://github.com/profadityasaxena/DevOps---Past-Present-Future/blob/main/DevOps%20-%20Past%2C%20Present%2C%20Future.pdf>
+  [PDF](https://github.com/profadityasaxena/DevOps---Past-Present-Future/blob/main/DevOps%20-%20Past%2C%20Present%2C%20Future.pdf)
 
 ### Cybersecurity
 
 - **AD-ASTRA — Cloud Security Compliance with Azure Policies and Ollama LLMs**  
-  Organization view: <https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1>
+  [Document](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)
 
 ### Web and Mobile Technologies
 
 - **Personal Portfolio Website**  
-  Website: <https://www.adityasaxena.xyz>
+  [Document](https://www.adityasaxena.xyz)
 
 - **Corporate Website**  
-  Website: <https://www.dalisoft.in/>
+  [Document](https://www.dalisoft.in/)
 
 - **Geo Notes App** — Browser-based notes using the Geolocation and Web Speech APIs  
-  Live app: <https://geo-notes-browser-api-tutorial.vercel.app/>
+  [Document](https://geo-notes-browser-api-tutorial.vercel.app/)
 
 - **Conway’s Game of Life — MERN Stack Implementation**  
-  Live app: <https://mern-conways-game-of-life-rn9y.vercel.app/>
+  [Document](https://mern-conways-game-of-life-rn9y.vercel.app/)
 
 - **Tailwind CSS: A Comprehensive Technical Overview** — *Aditya Saxena*.  
-  PDF: <https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf>
+  [PDF](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)
 
 ### Project Management
 
 - **Cloud and ERP Systems**  
-  PDF: <https://github.com/profadityasaxena/ProjectManagement_Cloud_and_ERP/blob/main/Project_Mangement%20-%20Cloud_and_ERP.pdf>
+  [PDF](https://github.com/profadityasaxena/ProjectManagement_Cloud_and_ERP/blob/main/Project_Mangement%20-%20Cloud_and_ERP.pdf)
 
 ### Robots, IoT, Factories, Big Machines, Satellites
 
 - **ICONICS Industry Implementation**  
-  Repository: <https://github.com/profadityasaxena/ICONICS_Industry>
+  [Link to Repository](https://github.com/profadityasaxena/ICONICS_Industry)
 
 ### Finance, Money, Blockchain
 
 - **FinTech Regulatory Frameworks and Compliance Analysis**  
-  Repository: <https://github.com/profadityasaxena/Fintech_RegulatoryFramework>
+  [Link to Repository](https://github.com/profadityasaxena/Fintech_RegulatoryFramework)
 
 ### Sustainability — Economic, Social, Environmental, and Governance
 
