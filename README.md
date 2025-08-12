@@ -9,17 +9,22 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 
 ## Quick Links
 
-- **Personal Portfolio:** [Live Demo](https://www.adityasaxena.xyz)  
-- **INSIGHT-XAI Notebook (Jupyter):** [Document](https://github.com/profadityasaxena/Labels-to-Latents/blob/main/implementation.ipynb)
+- **Personal Portfolio**  
+  [Live Demo](https://www.adityasaxena.xyz)
+
+- **INSIGHT-XAI Notebook (Jupyter)**  
+  [Document](https://github.com/profadityasaxena/Labels-to-Latents/blob/main/implementation.ipynb)
 
 ---
 
 ## Extendable Projects
 
-- **MERN Sample App (Security-Focused Template)** — [Live Demo](https://mern-full-stack-template.vercel.app/)  
+- **MERN Sample App (Security-Focused Template)**  
+  [Live Demo](https://mern-full-stack-template.vercel.app/)  
   A full-stack starter that can be extended into social networks, job boards, and analytics dashboards, with emphasis on authentication and security.
 
-- **MERN (shadcn/ui) Variant** — [Live Demo](https://mern-optimus.vercel.app/)  
+- **MERN (shadcn/ui) Variant**  
+  [Live Demo](https://mern-optimus.vercel.app/)  
   A variant built with shadcn/ui components for accessible, customizable UI in Next.js + Tailwind CSS workflows.
 
 ---
@@ -28,13 +33,13 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 
 ### Cloud Computing
 
-- **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices** — *Aditya Saxena*.  
+- **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices** — *Aditya Saxena*  
   [PDF](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
 
-- **A Framework for Digital Transformation Teams to Design Microservices Architecture from a Monolith** — *Aditya Saxena*.  
+- **A Framework for Digital Transformation Teams to Design Microservices Architecture from a Monolith** — *Aditya Saxena*  
   [PDF](https://github.com/profadityasaxena/Cloud-Microservices/blob/main/Microservices.pdf)
 
-- **Docker and Kubernetes** — *Aditya Saxena*.  
+- **Docker and Kubernetes** — *Aditya Saxena*  
   [PDF](https://github.com/profadityasaxena/docker_and_kubernetes/blob/main/Docker_and_Kubernetes.pdf)
 
 - **Comparative Study of Containerization Platforms (Docker, Kubernetes, etc.)**  
@@ -57,13 +62,14 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
   [PDF](https://github.com/profadityasaxena/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning/blob/main/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning.pdf)
 
 - **Generative AI Full-Stack Mini Project (OpenAI, MCP, AWS, AstraDB, ReAct, Next.js)**  
-  A personal AI assistant that answers résumé and recruiter queries.  
-  Technologies: OpenAI, Model Context Protocol (MCP), ReAct, AWS, AstraDB, Next.js, GSAP.  
-  [Document](https://www.linkedin.com/feed/update/urn:li:activity:7332995403006566400/)
+  [Document](https://www.linkedin.com/feed/update/urn:li:activity:7332995403006566400/)  
+  A personal AI assistant that answers résumé and recruiter queries. Technologies: OpenAI, Model Context Protocol (MCP), ReAct, AWS, AstraDB, Next.js, GSAP.
 
 ### Statistics and Data Science
 
-- **Coming soon:** Applied Bayesian models; experimental design in AI research.
+- **Applied Bayesian Models and Experimental Design in AI Research**  
+  [Document](#)  
+  Coming soon.
 
 ### Big Data
 
@@ -75,7 +81,7 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 
 ### Software Engineering and DevOps
 
-- **DevOps: Past, Present, Future** — *Aditya Saxena*.  
+- **DevOps: Past, Present, Future** — *Aditya Saxena*  
   [PDF](https://github.com/profadityasaxena/DevOps---Past-Present-Future/blob/main/DevOps%20-%20Past%2C%20Present%2C%20Future.pdf)
 
 ### Cybersecurity
@@ -91,13 +97,13 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 - **Corporate Website**  
   [Live Demo](https://www.dalisoft.in/)
 
-- **Geo Notes App** — Browser-based notes using the Geolocation and Web Speech APIs  
+- **Geo Notes App — Browser-based notes using Geolocation and Web Speech APIs**  
   [Live Demo](https://geo-notes-browser-api-tutorial.vercel.app/)
 
 - **Conway’s Game of Life — MERN Stack Implementation**  
   [Live Demo](https://mern-conways-game-of-life-rn9y.vercel.app/)
 
-- **Tailwind CSS: A Comprehensive Technical Overview** — *Aditya Saxena*.  
+- **Tailwind CSS: A Comprehensive Technical Overview** — *Aditya Saxena*  
   [PDF](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)
 
 ### Project Management
@@ -117,17 +123,28 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 
 ### Sustainability — Economic, Social, Environmental, and Governance
 
-- **Coming soon:** AI for sustainability; responsible modernization; carbon-aware cloud.
+- **AI for Sustainability, Responsible Modernization, and Carbon-Aware Cloud**  
+  [Document](#)  
+  Coming soon.
 
 ---
 
 ## Interests and Availability
 
-- **Currently learning:** Advancing the domains I am actively working in.  
-- **Collaboration interests:** Startups and high-impact, research-driven products.  
-- **How to reach me:** Details forthcoming.  
-- **Pronouns:** He / Him / His  
-- **Fun fact:** I find deep technical work inherently enjoyable.
+- **Currently learning**  
+  Advancing the domains I am actively working in.
+
+- **Collaboration interests**  
+  Startups and high-impact, research-driven products.
+
+- **How to reach me**  
+  Details forthcoming.
+
+- **Pronouns**  
+  He / Him / His
+
+- **Fun fact**  
+  I find deep technical work inherently enjoyable.
 
 <!---
 profadityasaxena/profadityasaxena is a special repository because its README.md (this file) appears on your GitHub profile.
