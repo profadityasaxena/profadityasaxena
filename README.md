@@ -9,17 +9,17 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 
 ## Quick Links
 
-- **Personal Portfolio:** [Document](https://www.adityasaxena.xyz)
+- **Personal Portfolio:** [Live Demo](https://www.adityasaxena.xyz)  
 - **INSIGHT-XAI Notebook (Jupyter):** [Document](https://github.com/profadityasaxena/Labels-to-Latents/blob/main/implementation.ipynb)
 
 ---
 
 ## Extendable Projects
 
-- **MERN Sample App (Security-Focused Template)** — Live demo: [Document](https://mern-full-stack-template.vercel.app/)  
-  A full-stack starter that can be extended into social networks, job boards, and analytics dashboards, with particular emphasis on authentication and security.
+- **MERN Sample App (Security-Focused Template)** — [Live Demo](https://mern-full-stack-template.vercel.app/)  
+  A full-stack starter that can be extended into social networks, job boards, and analytics dashboards, with emphasis on authentication and security.
 
-- **MERN (shadcn/ui) Variant** — Live demo: [Document](https://mern-optimus.vercel.app/)  
+- **MERN (shadcn/ui) Variant** — [Live Demo](https://mern-optimus.vercel.app/)  
   A variant built with shadcn/ui components for accessible, customizable UI in Next.js + Tailwind CSS workflows.
 
 ---
@@ -49,7 +49,7 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
   [Link to Repository](https://github.com/profadityasaxena/Spark_TextClassificationusingMLlib)
 
 - **AD-ASTRA — LLM-Driven Cloud Security Auditing and Policy Compliance** *(cross-listed under Cybersecurity)*  
-  [Document](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)
+  [Link to Repository](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)
 
 ### LLMs and Generative AI
 
@@ -81,21 +81,21 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 ### Cybersecurity
 
 - **AD-ASTRA — Cloud Security Compliance with Azure Policies and Ollama LLMs**  
-  [Document](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)
+  [Link to Repository](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)
 
 ### Web and Mobile Technologies
 
 - **Personal Portfolio Website**  
-  [Document](https://www.adityasaxena.xyz)
+  [Live Demo](https://www.adityasaxena.xyz)
 
 - **Corporate Website**  
-  [Document](https://www.dalisoft.in/)
+  [Live Demo](https://www.dalisoft.in/)
 
 - **Geo Notes App** — Browser-based notes using the Geolocation and Web Speech APIs  
-  [Document](https://geo-notes-browser-api-tutorial.vercel.app/)
+  [Live Demo](https://geo-notes-browser-api-tutorial.vercel.app/)
 
 - **Conway’s Game of Life — MERN Stack Implementation**  
-  [Document](https://mern-conways-game-of-life-rn9y.vercel.app/)
+  [Live Demo](https://mern-conways-game-of-life-rn9y.vercel.app/)
 
 - **Tailwind CSS: A Comprehensive Technical Overview** — *Aditya Saxena*.  
   [PDF](https://github.com/profadityasaxena/WebDesign_Tailwind/blob/main/TailwindCSS.pdf)
