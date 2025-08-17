@@ -47,6 +47,9 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 
 ### Cloud Computing
 
+- **KubeChat - KubeChat is a lightweight yet powerful question–answering system built on top of Docker, Kubernetes, LLaMA and QDrant.**
+  [Link to Repository](https://github.com/profadityasaxena/KubeChat)
+
 - **Modernizing Legacy Applications in the Era of AI and Large Language Models: A Review of Best Practices** — *Aditya Saxena*  
   [PDF](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern/blob/main/Paper.pdf)
 
@@ -71,6 +74,8 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
   [Link to Repository](https://github.com/profadityasaxena?org=AD-ASTRA-AI-Enabled-Cloud-Compliance&year_list=1)
 
 ### LLMs and Generative AI
+- **KubeChat - KubeChat is a lightweight yet powerful question–answering system built on top of Docker, Kubernetes, LLaMA and QDrant.**
+  [Link to Repository](https://github.com/profadityasaxena/KubeChat)
 
 - **Building Generative AI Agents with Deep Reinforcement Learning**  
   [PDF](https://github.com/profadityasaxena/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning/blob/main/Building_Generative_AI_Agents_with_Deep_Reinforcement_Learning.pdf)
