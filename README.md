@@ -29,6 +29,9 @@ Welcome to my tutorials and teaching portfolio. Most repositories here are hands
 - **INSIGHT-XAI Notebook (Jupyter)**  
   [Document](https://github.com/profadityasaxena/Labels-to-Latents/blob/main/implementation.ipynb)
 
+- **KubeChat - KubeChat is a lightweight yet powerful question–answering system built on top of Docker, Kubernetes, LLaMA and QDrant.**
+  [Link to Repository](https://github.com/profadityasaxena/KubeChat)
+
 ---
 
 ## Extendable Projects
