@@ -3,7 +3,7 @@
 Welcome to my tutorials and teaching portfolio. Most repositories here are hands-on, intermediate-level instructional materials used in my courses and final-year project supervision.
 
 > **Scope Note**  
-> These repositories prioritize instructional clarity. They do not fully represent my production work in cloud architecture, data engineering, or applied machine learning for industry.
+> Note: These GitHub repositories are designed as instructional tutorials for use in my classes. They prioritize clarity and accessibility for learners and do not reflect the full scope or complexity of my professional work in cloud architecture, data engineering, or applied machine learning in industry settings.
 
 
 # 💻 Tech Stack:
