@@ -1,140 +1,113 @@
 # Aditya Saxena
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=AI+Systems+%7C+Data+Platforms+%7C+Full-Stack+Engineering;Building+Production-Grade+Intelligent+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=AI%20Systems%20%7C%20Data%20Platforms%20%7C%20Engineering&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=4000&color=0A66C2&center=true&vCenter=true&width=800&lines=Production-Grade+AI+Systems;End-to-End+Machine+Learning+Pipelines;Real-Time+Data+Platforms+and+Distributed+Systems" />
 </p>
 
 ---
 
 ## Systems Portfolio
 
-A curated set of systems spanning machine learning, data engineering, distributed systems, and full-stack AI applications.  
-Focus is on building end-to-end systems — from data ingestion to deployed intelligence.
+A curated portfolio of production-grade systems across machine learning, data engineering, distributed systems, and full-stack AI applications.
 
 ---
 
 ## AI Optimization Platform
 
-Reinforcement learning system operating on high-frequency telemetry data in real-world environments.
+- Reinforcement learning system operating on high-frequency telemetry data  
+- End-to-end pipeline: ingestion → feature engineering → training → deployment → monitoring  
+- Policy optimization under constrained environments with continuous learning loops  
 
-- End-to-end pipeline: ingestion → feature engineering → model training → deployment → monitoring  
-- Policy optimization under constrained environments  
-- Continuous learning with controlled rollout and evaluation  
-
-**Impact**  
-- 2–4% sustained performance improvement  
+**Impact**
+- 2–4% performance improvement  
 - 4–5% efficiency gains  
-- ~15% system-level productivity increase  
+- ~15% increase in system productivity  
 
 ---
 
 ## Industry Mind — AI Data Platform
 
-Modular platform integrating streaming data, knowledge graphs, and machine learning systems.
-
-- Real-time data ingestion and processing pipelines  
-- Feature engineering and model integration layers  
-- Knowledge graph–based contextual reasoning  
+- Modular platform integrating streaming data, knowledge graphs, and ML systems  
+- Real-time ingestion and feature engineering pipelines  
+- Contextual reasoning through graph-based models  
 - Designed for scalable, multi-system intelligence  
 
 ---
 
 ## RAG + Knowledge Graph System
 
-LLM-powered retrieval system combining vector search and graph reasoning.
-
+- LLM-based retrieval system combining vector search and graph traversal  
 - Semantic document processing and embedding pipelines  
-- Hybrid retrieval: vector similarity + graph traversal  
-- Context-aware response generation  
-- Backend APIs for real-time interaction  
+- Context-aware response generation through hybrid retrieval  
 
-**Impact**  
+**Impact**
 - 60–70% reduction in resolution time  
-- Significant improvement in decision accuracy  
+- Improved decision accuracy and reduced expert dependency  
 
 ---
 
 ## MLOps & Model Lifecycle Platform
 
-Production-grade machine learning lifecycle system.
-
-- Experiment tracking and model versioning  
-- Controlled deployment pipelines (dev → stage → prod)  
-- Drift detection and retraining strategies  
-- Reproducible and auditable ML workflows  
+- End-to-end ML lifecycle system  
+- Model versioning, experiment tracking, deployment pipelines  
+- Drift detection and continuous retraining  
 
 ---
 
 ## Real-Time Data Platform
 
-High-throughput data engineering system for streaming and batch processing.
-
-- Distributed data pipelines  
-- ETL/ELT workflows and transformation layers  
-- Low-latency processing for real-time systems  
-- Strong observability and reliability design  
+- High-throughput streaming and batch pipelines  
+- Distributed processing for low-latency systems  
+- Reliable, observable data infrastructure  
 
 ---
 
 ## Autonomous Systems Architecture
 
-Distributed system integrating data, analytics, and decision layers.
-
-- End-to-end data flow across tightly coupled systems  
-- Monitoring, traceability, and system coordination  
-- Designed for high-throughput, real-world environments  
+- Distributed system integrating data pipelines, analytics, and decision layers  
+- Monitoring, traceability, and coordinated system behavior  
 
 ---
 
 ## Enterprise Integration Platform
 
-API-driven system connecting multiple enterprise applications.
-
-- Microservices architecture  
-- Event-driven data exchange  
-- Synchronization across distributed systems  
-- High reliability in multi-stakeholder environments  
+- API-driven microservices architecture  
+- Event-driven data exchange across distributed systems  
+- High reliability across multi-stakeholder environments  
 
 ---
 
 ## Time-Series Forecasting Systems
 
-Statistical and machine learning models for forecasting and anomaly detection.
-
-- ARIMA and seasonal modeling  
-- Trend and variability analysis  
+- ARIMA and statistical modeling  
+- Trend, seasonality, and anomaly detection  
 - Continuous forecasting pipelines  
 
 ---
 
 ## Cloud-Native AI Systems
 
-End-to-end deployment of AI systems on cloud infrastructure.
-
-- Containerized systems (Docker)  
-- Orchestrated environments  
+- Docker-based containerization  
+- Orchestrated deployments  
 - CI/CD pipelines  
-- Backend + frontend integration  
+- Full-stack integration  
 
 ---
 
 ## Selected Repositories
 
 - [KubeChat](https://github.com/profadityasaxena/KubeChat)  
-  LLM-based question-answering system using Kubernetes and vector search  
-
 - [INSIGHT-XAI](https://github.com/profadityasaxena/Labels-to-Latents)  
-  Explainable AI system exploring latent representations  
-
 - [Cloud Modernization](https://github.com/profadityasaxena/Cloud-Legacy-to-Modern)  
-  Architecture frameworks for transforming legacy systems  
-
 - [Generative AI Systems](https://github.com/profadityasaxena/GenAI_IntroToGenAI)  
-  Applied implementations of NLP and generative AI pipelines  
 
 ---
 
-## Stack
+## Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,java,c,aws,azure,docker,kubernetes,terraform,react,nextjs,nodejs,postgres,mongodb,redis" />
@@ -148,14 +121,26 @@ End-to-end deployment of AI systems on cloud infrastructure.
 
 ---
 
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=profadityasaxena&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=profadityasaxena&hide_border=true&ring=0A66C2&currStreakLabel=0A66C2" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/profadityasaxena/profadityasaxena/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## Notes
 
-Repositories include:
-- production-inspired systems  
-- research implementations  
-- structured instructional material  
-
-Instructional repositories prioritize clarity and learning structure and do not fully represent the scale of enterprise systems.
+Repositories include production-inspired systems, research implementations, and structured instructional material.  
+Instructional repositories emphasize clarity and structure and do not fully represent enterprise-scale system complexity.
 
 ---
 
@@ -163,3 +148,7 @@ Instructional repositories prioritize clarity and learning structure and do not 
 
 [LinkedIn](https://www.linkedin.com/in/itsadisxnn)  
 [Portfolio](https://www.adityasaxena.xyz)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
+</p>
