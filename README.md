@@ -22,7 +22,7 @@ This is where the real experience lives:
 systems, architecture, visuals, and product thinking.
 
 ## New Projects
-1. **https://micro-gpt-beta.vercel.app/**
+1. **MicroGPT - a scaled down implementation of ChatGPT** - **https://micro-gpt-beta.vercel.app/**
 
 ---
 
