@@ -23,7 +23,7 @@ systems, architecture, visuals, and product thinking.
 
 ## New Projects
 1. **MicroGPT - a scaled down implementation of ChatGPT** - **https://micro-gpt-beta.vercel.app/**
-2. **Sample: Comprehensive AI Portal** - **https://www.youtube.com/watch?v=dHpIrSYBbfM**
+2. **Sample: Comprehensive AI Portal** - **https://youtu.be/IT4UgfQ-C9g**
 3. **Sample: Full Stack Application - Immigrant-One** - **https://www.youtube.com/watch?v=gUAhs_ImdcM**
 4. **Sample: GenAI Application** - **https://www.youtube.com/watch?v=dHpIrSYBbfM**
 
